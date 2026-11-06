@@ -1,0 +1,4 @@
+interface:
+  display_name: "PortraitMaster"
+  short_description: "Layered portrait edits, exports, and rubric checks"
+  default_prompt: "Use $portraitmaster to edit this portrait with nondestructive layers and verify the requested PSD and JPEG."

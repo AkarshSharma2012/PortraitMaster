@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.portraitmaster/
+*.psd
+*.psb
+*.jpg
+*.jpeg
+*.nef
+*.cr2
+*.cr3
+*.dng
+__pycache__/
